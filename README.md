@@ -118,18 +118,6 @@ const joao = {
   <img src="https://streak-stats.demolab.com?user=DevJoaoBarros&locale=pt_BR&background=0d1117&border=2e1065&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevJoaoBarros&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Atividade%20no%20GitHub" width="100%"/>
-</p>
-
-<br/>
-
-## `> trofeus`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevJoaoBarros&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</p>
-
 <br/>
 
 ## `> contribuicoes`
