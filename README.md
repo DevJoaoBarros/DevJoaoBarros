@@ -47,7 +47,7 @@ const joao = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,notion,vscode&theme=dark" />
 </p>
 
 <br/>
