@@ -110,7 +110,7 @@ const joao = {
 ## `> github_stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevJoaoBarros&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=2e1065&locale=pt-br"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevJoaoBarros&show_icons=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=2e1065&locale=pt-br"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoBarros&layout=compact&langs_count=6&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=2e1065&locale=pt-br"/>
 </p>
 
